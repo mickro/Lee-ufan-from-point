@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>Lee U-Fan . .  .   . from point - web version</title>
+    <link rel="stylesheet" type="text/css" href="css/jquery-ui.css" />
+    <link rel="stylesheet" type="text/css" href="css/from_point.css" />
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="js/jquery.center.js"></script>
+    <script type="text/javascript" src="js/from_point.js"></script>
+  </head>
+  <body>
+    <div id="board">
+      <audio id='audio1' preload='auto'>
+	<source src="audio/to_point.ogg" type="audio/ogg" />
+	<source src="audio/to_point.mp3" type="audio/mpeg" />
+      </audio>
+      <div id="menu"></div>
+      <div id="grid"></div>
+      <div id="tools">
+	<form class='inline'>
+	  <div id="method_radio">
+	    <input type="radio" id="method_one_by_one" name="method_radio" checked="checked" /><label for="method_one_by_one">One by one</label>
+	    <input type="radio" id="method_one_shot" name="method_radio" /><label for="method_one_shot">One shot</label>
+	  </div>
+	</form>
+	<button class='inline' id="btn_audio">Audio Guide</button>
+	<button class='inline' id="btn_home">Home</button>
+      </div>
+    </div>
+  </body>
+</html>

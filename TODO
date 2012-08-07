@@ -1,0 +1,69 @@
+lee u fan
+from point on web
+
+TODO
+...all in the menu access
+
+# add a link to understand	( 1 )
+>> photo of originals art		( 1 )		x
+ + from point description
+>> Lee u Fan's biography, who is he ?	( 2 )		x
+ + photo
+ + text from wikipedia
+>> ma demarche web			( 3 )
+ + photo
+ + text
+
+# add color pickup
+
+# main menu			( 3 )
+>> link to biography			( 1 )		x
+>> link to from point description	( 1 )		x
+>> link to web version			( 1 )		x
+>> add email link			( 2 )
+
+# langue menu			( 2 )
+>> fr					( 2 )
+>> en					( 1 )		x
+>> sp					( 3 )
+
+# transition
+>> add a little transition
+    at begin of each
+>> add a little transition
+    at the end
+# intro
+  special intro for index
+  disable it when if already played
+  re-enable it after 5mins
+# evolution
+  award system
+# use HTML5
+** technics++
+>> fullscreen tool
+
+# update jQuery
+** technics++
+
+# diffusion
+** need a server, good to says: I know how to push on server
+** send a zip file, good to understand that's only excecuted by browser
+
+##
+
+## from point description
+
+La série From Point (1972-1984) essaie de matérialiser, de rendre palpable le passage du temps : l’artiste trempe son pinceau dans le pot de peinture, puis brosse une série de points de couleur de gauche à droite sur une toile. La couleur s’estompe à mesure que la couleur se dépose, illustrant ainsi visuellement le passage du temps nécessaire à la production de l’œuvre.
+
+## biography
+Lee was born in southern Korea in 1936 and witnessed the political convulsions that beset the Korean peninsula from the Japanese occupation to the Korean War, which left the country divided in 1953. He studied painting at the College of Fine Arts at Seoul National University and soon moved to Japan, where he earned a degree in philosophy. Over the last 40 years, he has lived and worked in Korea, Japan, and France, becoming a transnational artist in a postmodern world before those terms were current. "The dynamics of distance have made me what I am," he remarks.
+
+Lee Ufan se présente comme un “artiste-philosophe”. “Philosopher, c’est créer des concepts”, disait Gilles Deleuze. Logiquement, on dira donc que l’oeuvre de Lee Ufan est largement “conceptuelle”. Plus précisément, elle s’inscrit dans le mouvement Mono-ha ou “école des choses”, un mouvement artistique de la fin des années 60/début des années 70 né au Japon (Lee Ufan a vécu et travaillé en Corée, au Japon et en France principalement). On pourrait rapprocher ce mouvement de l’Arte Povera italien ou de la mouvance Post-minimalism aux Etats-Unis.
+
+Voilà pour les présentations savantes. Qu’est-ce que ça donne, sinon ? Une série d’œuvres effectivement minimalistes, mettant en scène, faisant “dialoguer” des traits de pinceau sur la toile, ou des éléments rassemblés sur le sol : pierres, plaques de verre, de métal, nuages de matière cotonneuse…
+
+TECHNIC
+HTML5:
+test all I need in HTML5
+- worker: insert all complex calcul in my_woker5.js
+! worker: use setInterval in my_woker.js

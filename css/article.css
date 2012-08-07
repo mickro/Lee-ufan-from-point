@@ -1,0 +1,56 @@
+#content {
+}
+
+.pic {
+  position: absolute;
+  vertical-align:text-top;
+  z-index:0;
+  bottom:0px;
+}
+
+#text {
+  font-family: "arial", sans-serif;
+  position: absolute;
+  vertical-align:text-top;
+  z-index:1;
+  right:0px;
+  top:0px;
+  margin: 5%;
+  text-align: right;
+  line-height:140%;
+  overflow:auto;
+}
+
+.bold {
+  font-weight:bold;
+  display: inline;
+}
+
+.normal {
+  font-weight:normal;
+  display: inline;
+}
+
+.italic {
+  font-style:italic;
+  display:inline;
+}
+
+.title {
+  font-size:larger;
+}
+
+.subtitle {
+  font-size:larger;
+}
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration:none;
+  color:#0A0A0A;
+}
+
+a:hover {
+  color:black;
+  border-bottom: thin solid black;
+}
+

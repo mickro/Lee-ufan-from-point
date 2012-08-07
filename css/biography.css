@@ -1,0 +1,23 @@
+#content {
+}
+
+#photo {
+  display:inline-block;
+  border:1px solid red;
+  width:30%;
+  vertical-align:text-top;
+}
+
+#photo img {
+}
+
+#text {
+  display: inline-block;
+  border: 1px solid blue;
+  width: 66%;
+  vertical-align:text-top;
+}
+
+.bold {
+  font-weight:bold;
+}
